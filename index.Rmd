@@ -1,0 +1,19 @@
+--- 
+title: "Interactive Teaching Techniques"
+author: "Kevin Yee"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+# bibliography: [book.bib, packages.bib]
+# biblio-style: apalike
+# link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "Collection of interactive teaching techniques."
+---
+
+# Introduction {#intro}
+
+These techniques have multiple benefits: the instructor can easily and quickly assess if students have really mastered the material (and plan to dedicate more time to it, if necessary), and the process of measuring student understanding in many cases is also practice for the material—often students do not actually learn the material until asked to make use of it in assessments such as these. Finally, the very nature of these assessments drives interactivity and brings several benefits. Students are revived from their passivity of merely listening to a lecture and instead become attentive and engaged, two prerequisites for effective learning. These techniques are often perceived as “fun”, yet they are frequently more effective than lectures at enabling student learning.
+
+Not all techniques listed here will have universal appeal, with factors such as your teaching style and personality influencing which choices may be right for you.
