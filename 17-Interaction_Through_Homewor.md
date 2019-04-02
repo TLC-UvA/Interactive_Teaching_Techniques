@@ -1,0 +1,58 @@
+# Interaction Through Homework
+
+## Find the Company
+
+Students search the Internet for a corporation that makes use of concepts/ideas from class, and must defend their choice in the next class session.
+
+## Diagnostic Learning Logs
+
+Students track main points in lecture and a second list of
+unclear points. They then reflect on and analyze the information and diagnose their
+weaknesses.
+
+## Process Analysis
+
+Students track the steps they take to finish an assignment and
+comment on their approaches to it.
+
+## Productive Study-Time Logs
+
+Short records students keep on how long they study
+for a class; comparison allows those with lesser commitment to see the disparity.
+
+## Double-Entry Journals
+
+Students note first the important ideas from reading, and
+then respond personally.
+
+## Paper or Project Prospectus
+
+Write a structured plan for a term paper or large
+project.
+
+## Annotated Portfolios
+
+Student turns in creative work, with student’s explanation of
+the work in relation to the course content and goals.
+
+## Student Questions
+
+## Student Questions (Index Cards)
+
+At the start of the semester, pass out index cards and ask each student to write a question about the class and your expectations. The cards rotate through the room, with each student adding a check-mark if they agree this question is important for them. The teacher learns what the class is most anxious about.
+
+## Student Questions (Group-Decided)
+
+Stop class, group students into fours, ask them to take five minutes to decide on the one question they think is crucial for you to answer right now.
+
+## Questions as Homework
+
+Students write questions before class on 3x5 cards: “What I really wanted to know about mitochondrial DNA but was afraid to ask...”
+
+## Student-Generated Test Questions
+
+Students create likely exam questions and model the answers. Variation: same activity, but with students in teams, taking each others’ quizzes.
+
+## Minute Paper Shuffle
+
+Ask students to write a relevant question about the material, using no more than a minute, and collect them all. Shuffle and re-distribute, asking each student to answer his new question. Can be continued a second or third round with the same questions.
