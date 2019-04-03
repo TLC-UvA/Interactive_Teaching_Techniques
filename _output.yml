@@ -1,6 +1,7 @@
 bookdown::gitbook:
   css: style.css
   config:
+    search: yes
     toc:
       before: |
         <li><a href="./">Interactive Teaching Techniques</a></li>
