@@ -19,3 +19,22 @@ a:link    { color: #777 !important; }
 a:visited { color: #777 !important; }
 a:hover   { color: #BC0031 !important; }
 a:active  { color: #BC0031 !important; }
+
+#header {background-color: #BC0031;
+         padding: 10px;
+         height: 300px;
+         color: #BC0031;
+         text-align: center;
+         background-image: url(https://uploads-ssl.webflow.com/5c5c26719c00c4e59fee3228/5c7a8fc09254e95ddfc0f006_UvA_TLC_Canvas_img_hero-sub_0459_very-high.jpg), url(https://uploads-ssl.webflow.com/5c5c26719c00c4e59fee3228/5c6a70f0954098b372770779_logo-updated.svg);
+         background-repeat: no-repeat, no-repeat;
+         background-size: 100%, 150px;
+         background-position: 0px 100px, 10px 10px;
+}
+
+#header h1 { color: #fff; 
+             margin-top: 200px; 
+             font-size: 30px;
+             text-shadow: 1px 0px 13px rgba(150, 150, 150, 1);
+}
+
+#header p { display:none;}

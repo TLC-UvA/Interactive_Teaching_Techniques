@@ -25,3 +25,5 @@ Many individuals have assisted over the years by contributing ideas from their o
 * Erin Saitta
 * Anna Turner
 * Nicole West
+
+The ebook version is maintined by [Sharon Klinkenberg](https://www.linkedin.com/in/sharonklinkenberg). Any issues or suggestions can be directed at him.
