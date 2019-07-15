@@ -15,5 +15,5 @@ pre code {
 
 h1, h2, h3 { color: #BC0031;}
 
-a:link a:visited  { color: #777 !important; }
+a:link a:visited { color: #777 !important; }
 a:hover a:active { color: #BC0031 !important; }
