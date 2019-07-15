@@ -12,3 +12,8 @@ pre {
 pre code {
   white-space: inherit;
 }
+
+h1, h2, h3 { color: #BC0031;}
+
+a:link  { color: #777 !important; }
+a:hover { color: #BC0031 !important; }
