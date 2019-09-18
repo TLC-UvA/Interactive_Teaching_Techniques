@@ -26,4 +26,4 @@ Many individuals have assisted over the years by contributing ideas from their o
 * Anna Turner
 * Nicole West
 
-The ebook version is maintined by [Sharon Klinkenberg](https://www.linkedin.com/in/sharonklinkenberg). Any issues or suggestions can be directed at him.
+The ebook version is maintained by [Sharon Klinkenberg](https://www.linkedin.com/in/sharonklinkenberg). Any issues or suggestions can be directed at him. Or if you are bold, you can even fork the repository and edit the document through [github](ShKlinkenberg/Interactive_Teaching_Techniques).
