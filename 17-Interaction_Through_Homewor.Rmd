@@ -35,7 +35,7 @@ project.
 Student turns in creative work, with student’s explanation of
 the work in relation to the course content and goals.
 
-## Student Questions
+## Student Questions
 
 ## Student Questions (Index Cards)
 
