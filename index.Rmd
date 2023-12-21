@@ -14,7 +14,7 @@ description: "Collection of interactive teaching techniques."
 
 # Introduction {#intro}
 
-Welcome to the ebook on interactive teaching techniques. This document is based on the [Interactive Techniques PDF](https://www.usf.edu/atle/documents/handout-interactive-techniques.pdf) of [Kevin Yee](https://www.usf.edu/atle/about-us/kevin-yee.aspx). Based on the creative commons licence the Teaching & Learning Centre of the University of Amsterdam is maintaining and expanding this ebook version. The full [credits] can be found at the end of this ebook.
+Welcome to the ebook on interactive teaching techniques. This document is based on the [Interactive Techniques PDF](https://www.usf.edu/atle/documents/handout-interactive-techniques.pdf) of [Kevin Yee](https://fctl.ucf.edu/about-us/staff/kevin-yee/). Based on the creative commons licence the Teaching & Learning Centre of the University of Amsterdam is maintaining and expanding this ebook version. The full [credits] can be found at the end of this ebook.
 
 ## Interactive Teaching Techniques
 
